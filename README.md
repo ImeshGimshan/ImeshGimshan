@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imeshgimshan" alt="imeshgimshan" /></a> </p>
 
-- 🔭 I’m currently working on **Island-Wise and Bidzy**
+- 🔭 I’m currently working on **ChatStack & Island-Wise**
 
 - 🌱 I’m currently learning **DotNet, Agentic AI, Flutter, Fast-API and NestJS**
 
