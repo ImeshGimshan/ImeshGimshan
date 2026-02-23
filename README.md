@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imeshgimshan" alt="imeshgimshan" /></a> </p>
 
-- 🔭 I’m currently working on **ChatStack & Island-Wise**
+- 🔭 I’m currently working on **ChatStack & Volo**
 
-- 🌱 I’m currently learning **DotNet, Agentic AI, Flutter, Fast-API and NestJS**
+- 🌱 I’m currently learning **DevOps, NestJS, AI and Agentic AI , Flutter**
 
-- 👨‍💻 All of my projects are available at [https://imeshgimshan.vercel.app/](https://imeshgimshan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.imeshgimshan.dev/](https://www.imeshgimshan.dev/)
 
 - 📫 How to reach me **imeshgimhan@outlook.com**
 
