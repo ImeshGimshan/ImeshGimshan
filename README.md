@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ChatStack & Volo**
 
-- 🌱 I’m currently learning **DevOps, NestJS, AI and Agentic AI , Flutter**
+- 🌱 I’m currently learning **DevOps, NestJS, AI and Agentic AI , Flutter, Python**
 
 - 👨‍💻 All of my projects are available at [https://www.imeshgimshan.dev/](https://www.imeshgimshan.dev/)
 
